@@ -68,7 +68,7 @@ class ATM():
                     print("invalid selection")
 usernames = ["isha08","deepika19","kavya30","kalyani"]
 passwords = ["jahnavi18","kallu7","vaishu26","siri57"]
-pin = [1357,2459,7020,3459,1000]
-balance = [2067,1579,7239,2003]
+pin = [1357,2459,7020,3459]
+balance = [2067,1579,7239]
 B = ATM()
 B.v(usernames,passwords,pin,balance)
